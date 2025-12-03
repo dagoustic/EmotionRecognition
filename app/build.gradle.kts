@@ -82,6 +82,5 @@ dependencies {
     debugImplementation(libs.androidx.compose.ui.tooling)
     debugImplementation(libs.androidx.compose.ui.test.manifest)
     implementation("androidx.multidex:multidex:2.0.1")
-    implementation("org.mongodb:mongodb-driver-kotlin-coroutine:5.2.0")
-    implementation("org.bson:bson:4.11.0")
+    implementation("org.mongodb:mongodb-driver-sync:5.2.0")
 }
