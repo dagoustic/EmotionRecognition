@@ -1,4 +1,4 @@
-package com.example.hciproject.ui.theme
+package com.example.hciproject.ui.dashboard
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*
