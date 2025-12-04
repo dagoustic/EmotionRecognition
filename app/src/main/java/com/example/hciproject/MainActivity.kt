@@ -3,7 +3,7 @@ package com.example.hciproject // Giữ nguyên package của bạn
 import android.os.Bundle
 import androidx.activity.ComponentActivity
 import androidx.activity.compose.setContent
-import com.example.hciproject.ui.dashboard.DashboardScreen
+import com.example.hciproject.Dang.data.ui.dashboard.DashboardScreen
 
 // Đừng quên import DashboardScreen nếu nó bị đỏ (Bấm vào nó rồi nhấn Alt + Enter)
 

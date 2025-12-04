@@ -1,4 +1,4 @@
-package com.example.hciproject.ui.dashboard
+package com.example.hciproject.Dang.data.ui.dashboard
 
 import androidx.compose.foundation.layout.*
 import androidx.compose.material3.*

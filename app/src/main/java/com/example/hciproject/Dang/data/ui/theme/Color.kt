@@ -1,4 +1,4 @@
-package com.example.hciproject.ui.theme
+package com.example.hciproject.Dang.data.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

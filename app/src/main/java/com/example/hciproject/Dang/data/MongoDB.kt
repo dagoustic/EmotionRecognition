@@ -1,4 +1,4 @@
-package com.example.hciproject.data
+package com.example.hciproject.Dang.data
 
 import com.mongodb.client.MongoClient
 import com.mongodb.client.MongoClients
